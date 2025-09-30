@@ -185,5 +185,5 @@ If you like this project, don’t forget to ⭐ star the repo.
 **Amit Kumar Yadav**  
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/amityadav72)  
-- 💻 [GitHub](https://github.com/amityadav72)  
+- 💻 [GitHub](https://github.com/amityadav-72)  
 
